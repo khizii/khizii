@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Khizar Mehmood.
+- 👋 Hi, I’m KHIZAR TARIQ.
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning bscs from University of Engineering and Technology Taxila,pakistan.
 - 💞️ I’m looking to collaborate on projects of machine learning , deep learning , data cleansing, data analysts.
