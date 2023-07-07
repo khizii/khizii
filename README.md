@@ -1,7 +1,7 @@
-- 👋 Hi, I’m khizar mehmood
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning bscs from University of engineering and technology taxila,pakistan
-- 💞️ I’m looking to collaborate on projects of machine learning , deep learning , data cleansing, data analysts
+- 👋 Hi, I’m Khizar Mehmood.
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning bscs from University of Engineering and Technology Taxila,pakistan.
+- 💞️ I’m looking to collaborate on projects of machine learning , deep learning , data cleansing, data analysts.
 - 📫 you can reach me out at khizartariq4895@gmail.com
 
 <!---
